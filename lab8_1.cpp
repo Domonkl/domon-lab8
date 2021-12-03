@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main(){
+int main() {
     double a  =  20, b = 30;
     double c = 4, output;
 
@@ -8,4 +8,3 @@ int main(){
     cout <<"output: "<<output ;
     return 0;
 }
-
